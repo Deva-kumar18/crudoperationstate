@@ -1,0 +1,87 @@
+table{
+  height: 150px;
+  width: 400px;
+  border: 1px solid black;
+}
+.table-container{
+  margin-left: 400px;
+}
+td{
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: bold;
+  text-align: center;
+  background-color: peachpuff;
+ 
+
+}
+.edit-icon{
+  
+}
+  button.edit-btn {
+    outline: none;
+    border: none;
+    margin: none;
+    background-color: peachpuff;
+}
+.delete-btn{
+    outline: none;
+    border: none;
+    margin: none;
+    background-color: peachpuff;
+
+}
+.update-btn{
+  outline: none;
+  border: none;
+  margin: none;
+  background-color: peachpuff;
+  padding: 4px 10px;
+}
+
+
+
+input.add-input {
+  height: 23px;
+  width: 359px;
+  margin-top: 31px;
+  position: relative;
+  outline: none;
+}
+input.edit-input {
+  height: 20px;
+}
+th{
+  background-color: gray;
+  color: white;
+  padding: 4px;
+}
+button.add-btn {
+  outline: none;
+  border: none;
+padding-inline: 0;
+padding-block: 0;}
+.add-ico {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  margin-left: 4px;
+}
+.div-btns{
+  display: flex;
+}
+.cancel-btn{
+  height: 30px;
+  background-color: red;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 6px;
+}
+
+  .input-section{
+    display: flex;
+    
+   
+  }
+  
